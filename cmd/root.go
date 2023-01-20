@@ -20,8 +20,8 @@ var (
 
 var rootCmd = &cobra.Command{
 	Use:          "fuzzytest",
-	Short:        "fuzzytest - short description",
-	Long:         `fuzzytest - long description`,
+	Short:        "fuzzytest - fuzzy stuff",
+	Long:         `fuzzytest - fuzzying stuff`,
 	SilenceUsage: true,
 	Version:      fmt.Sprintf("%s (commit=%s)", version.Version, version.Commit),
 }
