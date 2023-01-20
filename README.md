@@ -1,21 +1,21 @@
-# cli_template_name
+# fuzzytest
 
-cli_template_description
+fuzzy tool
 
 ## Install
 
 ### Homebrew tap
 
 ```console
-brew install cli_template_owner/tap/cli_template_name
+brew install dotnetmentor/tap/fuzzytest
 ```
 
 ### go install
 
 ```console
-go install github.com/cli_template_owner/cli_template_name@latest
+go install github.com/dotnetmentor/fuzzytest@latest
 ```
 
 ### Manual
 
-Download binaries from [release page](https://github.com/cli_template_owner/cli_template_name/releases)
+Download binaries from [release page](https://github.com/dotnetmentor/fuzzytest/releases)

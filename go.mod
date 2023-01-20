@@ -1,4 +1,4 @@
-module github.com/cli_template_owner/cli_template_name
+module github.com/dotnetmentor/fuzzytest
 
 go 1.17
 

@@ -1,7 +1,7 @@
 package version
 
 // Name for this cli
-const Name string = "cli_template_name"
+const Name string = "fuzzytest"
 
 // Version for this cli
 var Version = "dev"
